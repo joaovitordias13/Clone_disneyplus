@@ -4,6 +4,8 @@
 @use 'plans';
 @use 'available-devices';
 @use 'faq';
+@use 'footer';
+@use 'header';
 
 @font-face {
     font-family: Avenir;
@@ -21,6 +23,7 @@
     box-sizing: border-box;
     padding: 0;
     font-family: Avenir, sans-serif;
+    list-style: none;
 
 }
 body{
@@ -68,12 +71,21 @@ body{
     height: 50px;
     font-size: 18px;
     color: variaveis.$cortextoSecundario;
-    background-color: #6421ff;
+    background-color: variaveis.$corDeFundoBotaoPrimario;
     text-transform: uppercase;
     border-radius: 4px;
     border: none;
-    margin-top: 2vw;
-    margin-bottom: 8px;
+    text-decoration: none;
+    padding: 8px 14px;
+    letter-spacing: 1px;
+
+    &--secondary{
+        background-color: variaveis.$corDeFundoBotaoSecundario;
+    }
+
+    &--dark{
+        background-color: rgba(variaveis.$corDeFundoBotaoDark,0.8);
+    }
 }
 
 .image-text-section{
