@@ -12,6 +12,7 @@
             background-color: #13151d;
             margin-bottom: 16px;
 
+
             &__question{
                 color: #fff;
                 font-size: 20px;
@@ -20,6 +21,10 @@
                 cursor: pointer;
                 position: relative;
 
+                @media (max-width:768px) {
+                    font-size: 16px;
+                    padding: 20px;
+                }
                 &::after {
                     content: '+';
                     position: absolute;
