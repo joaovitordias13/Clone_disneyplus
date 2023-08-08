@@ -6,6 +6,7 @@
 @use 'faq';
 @use 'footer';
 @use 'header';
+@use 'page-hero';
 
 @font-face {
     font-family: Avenir;
@@ -150,7 +151,15 @@ body{
             margin-bottom: 24px;
         }
     }
+    &__title__big{
+        display: inline-block;
+    }
 
+    &__image__full {
+        width: 500px;
+        display: block;
+        margin-left: 50px;
+    }
     &--image-full-width {
         display: block;
         position: relative;
