@@ -1,5 +1,5 @@
 # <div align="center"> Clone da Landing Page do Dinsey+</div>
-<div align='center'><img align="center" src='./Clone_disneyplus/src/images/midia.readme/readme.disney.gif' alt=""></img></div>
+<div align='center'><img align="center" src='./src/images/midia.readme/readme.disney.gif' alt=""></img></div>
 <br>
 
 # 🛠 Tecnologias utilizadas:
