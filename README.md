@@ -38,10 +38,10 @@ https://clone-disneyplus-nxzm.vercel.app/</li>
 
 # 🎨 Pré-visualização :
 ## Apresentação da Página no PC:
-<img  src="./Clone_disneyplus/src/images/midia.readme/1.png">
+<img  src="./src/images/midia.readme/1.png">
 
 ## Apresentação da Página em dispositivos móveis:
-<img  src="./Clone_disneyplus/src/images/midia.readme/2.png">
+<img  src="./src/images/midia.readme/2.png">
 
 
 # 🦸 Autor:
