@@ -3,6 +3,11 @@
 
     h2 {
         text-align: center;
+
+        @media (max-width:768px) {
+            margin-top: 20px;
+        }
+
     }
 
     &__list {
@@ -12,6 +17,7 @@
 
         @media (max-width:768px) {
             display: block;
+            margin-top: 0px;
         }
 
         .button {
