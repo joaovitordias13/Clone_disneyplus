@@ -10,8 +10,8 @@
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GULP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="GULP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
 
 </div>
 <br>
@@ -28,7 +28,7 @@ O resultado final do projeto está disponível para visualização online atrav�
 https://clone-disneyplus-nxzm.vercel.app/</li>
 </br>
 
-# 🛠 Ferramentas Utilizadas:
+# 🛠 Ferramentas Utilizadas :
 <ul>
         <li>Gulp: Utilizamos o Gulp como uma ferramenta de automação de tarefas para melhorar a eficiência do fluxo de trabalho de desenvolvimento.</li>
         <li>SASS: Utilizamos o pré-processador SASS para escrever estilos CSS de forma mais eficiente, aproveitando recursos como variáveis, mixins e aninhamento.</li>
@@ -37,7 +37,7 @@ https://clone-disneyplus-nxzm.vercel.app/</li>
     </ul>
 
 # 🎨 Pré-visualização :
-## Apresentação da Página no PC:
+## Apresentação da Página no PC :
 <img  src="./src/images/midia.readme/1.png">
 
 ## Apresentação da Página em dispositivos móveis:
