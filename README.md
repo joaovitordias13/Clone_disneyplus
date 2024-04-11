@@ -30,10 +30,10 @@ https://clone-disneyplus-nxzm.vercel.app/</li>
 
 # 🛠 Ferramentas Utilizadas :
 <ul>
-        <li>Gulp: Utilizamos o Gulp como uma ferramenta de automação de tarefas para melhorar a eficiência do fluxo de trabalho de desenvolvimento.</li>
-        <li>SASS: Utilizamos o pré-processador SASS para escrever estilos CSS de forma mais eficiente, aproveitando recursos como variáveis, mixins e aninhamento.</li>
+        <li>Gulp: Utilizei o Gulp como uma ferramenta de automação de tarefas para melhorar a eficiência do fluxo de trabalho de desenvolvimento.</li>
+        <li>SASS: Utilizei o pré-processador SASS para escrever estilos CSS de forma mais eficiente, aproveitando recursos como variáveis, mixins e aninhamento.</li>
         <li>Vercel: A página do Clone do Disney+ está hospedada na Vercel, uma plataforma de hospedagem e implantação de sites. Através do Vercel, conseguimos disponibilizar a página de forma simples e rápida.</li>
-        <li>JavaScript: implementamos lógica e interatividade usando JavaScript para aprimorar a experiência do usuário na página.</li>
+        <li>JavaScript: Implementei lógica e interatividade usando JavaScript para aprimorar a experiência do usuário na página.</li>
     </ul>
 
 # 🎨 Pré-visualização :
