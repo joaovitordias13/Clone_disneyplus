@@ -62,4 +62,6 @@
 
 
 # 🔄 Diagrama :
-![sistema_reservas_de_salas.png](attachment:977c7cb4-5b85-4be3-913c-5bd2f6b114e9:sistema_reservas_de_salas.png)
+  <img align="center" alt="GULP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
+  <img width="518" height="555" alt="sistema_reservas_de_salas" src="https://github.com/user-attachments/assets/7bb473d2-ea9e-4141-ac1d-0903f5dc4285" />
+
