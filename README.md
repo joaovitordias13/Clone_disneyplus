@@ -60,3 +60,6 @@
 - Registra todas as alterações realizadas nas reservas.
 - Inclui quem fez a alteração e quando.
 
+
+# 🔄 Diagrama :
+![sistema_reservas_de_salas.png](attachment:977c7cb4-5b85-4be3-913c-5bd2f6b114e9:sistema_reservas_de_salas.png)
